@@ -11,7 +11,6 @@ repositorio:
 * Golang
 * Julia
 * CSharp
-* Kotlin
 
 ~~No soy un adepto al lenguaje de programación Python (Y creo que nunca lo seré)
 pero debido a los requerimientos actuales de una UDA dentro de mi universidad me
