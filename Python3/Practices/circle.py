@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-PI: float = 3.1415
-
-float(input("Ingrese el radio del círculo"))
-print
+PI = 3.1415
 
 rad = float(input("Ingrese el radio del círculo"))
-print
+print("El área del círculo es: ", PI * (rad **2))
+print("La circunferencia es: ", 2 * PI * rad)
